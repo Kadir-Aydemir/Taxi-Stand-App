@@ -1,0 +1,11 @@
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\bin\Debug\Taksi Durak Uygulaması.exe.config
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\bin\Debug\Taksi Durak Uygulaması.exe
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\bin\Debug\Taksi Durak Uygulaması.pdb
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi Durak Uygulaması.csprojAssemblyReference.cache
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi_Durak_Uygulaması.Taksi_Durak.resources
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi_Durak_Uygulaması.Properties.Resources.resources
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi Durak Uygulaması.csproj.GenerateResource.cache
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi Durak Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi Durak Uygulaması.exe
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi Durak Uygulaması.pdb
+C:\Users\msı\Desktop\Taksi Durak Uygulaması\Taksi Durak Uygulaması\obj\Debug\Taksi_Durak_Uygulaması.Veriler.resources

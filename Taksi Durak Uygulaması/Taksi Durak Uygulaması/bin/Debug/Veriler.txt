@@ -1,0 +1,7 @@
+--Adı Soyadı------+---Telefon---------+----------------Adres------------------------+-----Araç-------+--------------------Gidiş Yeri--------------+-Mesafe-+---Ücret---+----Tarih----
+Kadir Aydemir	(555) 698-4156	Söğütdalı mahallesi 3268 sokak no:42	34TC4401     Kağıtevler mahallesi 2150 sokak no:18       3256	    14,77 TL     9.06.2021	
+Salih Uçar	(532) 689-4712	Yeşilyurt mahallesi 1278 sokak no:32	34TC4402     Yenice mahallesi Alibey sokak no:2              4800         9,55 TL     9.06.2021	
+Fatmanur Yılmaz	(554) 875-6321	Çamlıca mahallesi 418 sokak no:6	34TC4403     Karaca mahallesi 2284 sokak no:47	      7462	    27,39 TL     9.06.2021	
+Sevda Çiçek	(532) 772-0546	Küçükçekmece mahallesi 216 sokak no:9	34TC4404     Dumlupınar mahallesi Sıla sokak no:63      5423	    21,27 TL     9.06.2021	
+Selim Küçük	(532) 569-8412	Sinan mahallesi 3856 sokak no:47	34TC4405     Selimiye mahallesi 2245 sokak no:              9457	    33,37 TL     9.06.2021	
+Sinan Yurt	(555) 489-6322	Mimar mahallesi 2657 sokak no:47	34TC4407     Sancak mahallesi 4427 sokak no:146         7845	    28,54 TL     9.06.2021	
